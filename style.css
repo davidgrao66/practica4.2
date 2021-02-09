@@ -15,3 +15,10 @@ p.teléfono{
     color: brown;
     text-align: right;
 }
+h1.centradodarkred{
+    text-align: center; 
+    color: darkred; 
+}
+div.red{
+    color: red;
+}
